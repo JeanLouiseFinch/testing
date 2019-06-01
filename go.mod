@@ -1,4 +1,4 @@
-module github.com/JeanLouiseFinch/testitng
+module github.com/JeanLouiseFinch/testing
 
 go 1.12
 
